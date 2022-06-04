@@ -1,9 +1,9 @@
 # Script Kiddies
 
 ## Characteristics
-**Skills & Training:** Very Low\
-**Resources:** Very Low\
-**Risk Appetite:** Very High\
+**Skills & Training:** Low\
+**Resources:** Low\
+**Risk Appetite:** High\
 **Description:** Script Kiddies are often young and/or inexperienced and don't understand the risk or traceability of their actions. They often operate from within governments with weak cybersecurity laws & enforcement.
 
 ## Motives
