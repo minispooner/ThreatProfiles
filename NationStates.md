@@ -10,6 +10,7 @@
 - Revenue stream
 - Political gain (elections meddling, sowing doubt/turmoil, politician image, etc)
 - Cyber warfare (critical infrastructure attacks, operational disruption, political unrest, etc)
+- Strategic sabotage (Stuxnet)
 
 ## Targets
 Any organization that can provide the objectives of the above motives (coorporations, governments, social media, etc)
