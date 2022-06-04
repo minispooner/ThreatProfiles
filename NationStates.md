@@ -1,9 +1,9 @@
 # Nation States
 
 ## Characteristics
-**Skills & Training**: Very High\
-**Resources**: Very High\
-**Risk Appetite**: Very Low. Nation States seek to avoid repurcusions & political retaliation associated with hacking activity attribution.
+**Skills & Training**: Medium - High\
+**Resources**: Medium - High\
+**Risk Appetite**: Low. Nation States seek to avoid repurcusions & political retaliation associated with hacking activity attribution.
 
 ## Motives
 - Espionage (technical, medical, military, nuclear, financial...depends on nation's needs)
