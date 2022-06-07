@@ -1,9 +1,10 @@
 # Nation States
 
 ## Characteristics
-**Skills & Training**: Medium - High\
-**Resources**: Medium - High\
-**Risk Appetite**: Low. Nation States seek to avoid repurcusions & political retaliation associated with hacking activity attribution.
+**Skills & Training:** Medium - High\
+**Resources:** Medium - High\
+**Risk Appetite:** Low\
+**Description:** Nation States are new or established, state-funded hacker teams that are directed by their government to support government initiatives. They seek to avoid repurcusions & political retaliation associated with hacking activity attribution.
 
 ## Motives
 - Espionage (technical, medical, military, nuclear, financial...depends on nation's needs)
