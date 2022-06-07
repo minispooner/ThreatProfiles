@@ -4,14 +4,14 @@
 **Skills & Training:** Low\
 **Resources:** Low\
 **Risk Appetite:** High\
-**Description:** Script Kiddies are often young and/or inexperienced and don't understand the risk or traceability of their actions. They often operate from within governments with weak cybersecurity laws & enforcement.
+**Description:** Script Kiddies are often young and/or inexperienced and don't fully understand how their tools work. They often operate from within governments with weak cybersecurity laws & enforcement.
 
 ## Motives
 - Curiosity
 - Mischievous destruction
 - Popularity (bragging rights, name recognition, showing off)
 - Revenge
-- Financial compensation
+- Financial compensation (initial access brokers)
 
 ## Targets
 - Poorly configured systems and websites
@@ -21,7 +21,7 @@
 ## Techniques
 - Publicly-available tools and exploits (no modifications)
 - Cheap infrastructure (Digital Ocean, etc)
-- No persistence
+- No persistence aside from default webshells or valid accounts etc
 - No evasion
 - Simple lateral with discovered secrets/systems
 
