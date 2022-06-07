@@ -11,7 +11,7 @@
 - Mischievous destruction
 - Popularity (bragging rights, name recognition, showing off)
 - Revenge
-- Financial compensation [initial access brokers](https://www.bankinfosecurity.com/cybercrime-enabler-initial-access-brokers-keep-evolving-a-17249)
+- Financial compensation ([initial access brokers](https://www.bankinfosecurity.com/cybercrime-enabler-initial-access-brokers-keep-evolving-a-17249))
 
 ## Targets
 - Poorly configured systems and websites
