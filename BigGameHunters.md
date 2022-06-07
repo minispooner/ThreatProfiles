@@ -1,15 +1,16 @@
 # Big Game Hunters
 
 ## Characteristics
-**Skills & Training**: Medium - High\
-**Resources**: Low - High\
-**Risk Appetite**: Low
+**Skills & Training:** Medium - High\
+**Resources:** Medium - High\
+**Risk Appetite:** Low\
+**Description:** Studious, pacient, specific targets, looking for bloaty corps/orgs that can provide a big ransom.
 
 ## Motives
 - Financial gains
 
 ## Targets
-- Major corporations that can deliver high returns (banks, financial institutions)
+- Staked out, major corporations that can deliver high returns (banks, financial institutions)
 
 ## Techniques
 - Custom exploits
@@ -20,6 +21,7 @@
 - Social engineering
 
 ## Post Exploitation
+- Monetization (ransomware)
 - Persistence
 - Exfiltration
 - Lateral
