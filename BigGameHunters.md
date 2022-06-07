@@ -1,8 +1,8 @@
 # Big Game Hunters
 
 ## Characteristics
-**Skills & Training**: Medium - High
-**Resources**: Low - High
+**Skills & Training**: Medium - High\
+**Resources**: Low - High\
 **Risk Appetite**: Low
 
 ## Motives
