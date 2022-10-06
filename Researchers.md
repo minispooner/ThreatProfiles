@@ -13,7 +13,8 @@
 - organizations, platforms, software, hardware, systems, internet as a whole
 
 ## Techniques
-- Public recon (OSINT, fuzzing, web scanner, familiarizing with target app)
+- Public recon (OSINT, open source static analysis
+- Scanning (fuzzing, DAST scanner, manually familiarizing with target app with Burp or Zap proxy)
 - Custom exploits, fine-tuning or scaling scanners
 - Zero-day exploits
 - Dedicated study of target environment (technologies, employees, attack surface)
