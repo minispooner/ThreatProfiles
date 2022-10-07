@@ -4,7 +4,7 @@
 **Skills & Training:** Low - High\
 **Resources:** Low - Medium, though can be funded\
 **Risk Appetite:** Low - Medium\
-**Description:** Studious, intelligent, determined. Can be good or grey. Often research 1 technology deeply or scale an issue for metrics/coverage. Researchers can also be targets of other adversaries.
+**Description:** Studious, intelligent, determined. Can be good or grey. Often research 1 technology deeply or scale an issue for metrics/coverage. Researchers can also be targets of other adversaries. Work alone or in teams.
 
 ## Motives
 - Financial gain (0day sales), reputation (CVEs, blogs, tools)
